@@ -1,0 +1,13 @@
+html, body {
+    width: 100%;
+    overflow: hidden;
+}
+
+.video-editor .timeline {
+    height: 120px;
+    width: 100%;
+    position: absolute;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
